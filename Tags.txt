@@ -1,5 +1,9 @@
 This is tags testing purpose---->
 
+<<<<<<< HEAD
 --> this is main branch code---> commentsThis is tags testing purpose---->
 
 -----> added in featuresS
+=======
+--> this is main branch code---> comments
+>>>>>>> 3e6e3b968313ac26584e5d9c5210e786dd856ec8
